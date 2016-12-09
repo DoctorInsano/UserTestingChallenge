@@ -1,0 +1,18 @@
+--- 
+Measurement_units: inches
+test: true
+LargeLockers: 
+    length: 15
+    width: 15
+    height: 15
+    totalAmount: 5
+MediumLockers: 
+    length: 10
+    width: 10
+    height: 10
+    totalAmount: 5 
+SmallLockers: 
+    length: 5
+    width: 5
+    height: 5
+    totalAmount: 5
